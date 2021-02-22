@@ -24,6 +24,7 @@ const Header = props => {
             as="header"
             align="center"
             position="fixed"
+            zIndex="9999"
             justify="space-between"
             wrap="wrap"
             padding="1.5rem"

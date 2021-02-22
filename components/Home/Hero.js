@@ -15,7 +15,7 @@ const Hero = ({children}) => {
                     <Center mt="2.5">
                         <Stack direction="row" spacing={4}>
                             <Button leftIcon={<DownloadIcon />} colorScheme="teal" variant="solid">
-                                Resume
+                                Portofolio
                             </Button>
                             <Button rightIcon={<FaTwitter />} colorScheme="teal" variant="outline">
                                 Connect
